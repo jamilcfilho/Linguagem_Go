@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://blog.remontti.com.br/wp-content/uploads/2019/10/Golang.png" alt="Logo Golang">
+</p>
+
 # Fundamentos da linguagem Golang - DIO.
 
 Aqui estão listados os fundamentos, variações e ferramentas da lingaugem Go, na qual vou aprendendo em minha jornada e vou relacionando em um repositório para futuros estudos sobre a linguagem para relembrar algo.
